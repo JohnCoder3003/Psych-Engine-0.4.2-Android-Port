@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="darksayo.png"><SubTexture name="darksayo down0000" x="0" y="0" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="darksayo down0001" x="2052" y="0" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="darksayo down0002" x="4104" y="0" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="darksayo down0003" x="6156" y="0" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="darksayo down0004" x="8208" y="0" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="darksayo idle0000" x="0" y="2052" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="darksayo idle0001" x="2052" y="2052" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="darksayo idle0002" x="4104" y="2052" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="darksayo idle0003" x="6156" y="2052" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="darksayo idle0004" x="8208" y="2052" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="darksayo idle0005" x="0" y="4104" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="darksayo left0000" x="2052" y="4104" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="darksayo left0001" x="4104" y="4104" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="darksayo left0002" x="6156" y="4104" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="darksayo left0003" x="8208" y="4104" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="darksayo left0004" x="0" y="6156" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="darksayo right0000" x="2052" y="6156" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="darksayo right0001" x="4104" y="6156" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="darksayo right0002" x="6156" y="6156" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="darksayo right0003" x="8208" y="6156" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="darksayo right0004" x="0" y="8208" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="darksayo up0000" x="2052" y="8208" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="darksayo up0001" x="4104" y="8208" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="darksayo up0002" x="6156" y="8208" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="darksayo up0003" x="8208" y="8208" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="darksayo up0004" x="0" y="10260" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+</TextureAtlas>

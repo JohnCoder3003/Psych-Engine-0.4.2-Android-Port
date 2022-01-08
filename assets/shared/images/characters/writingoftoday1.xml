@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="writingoftoday1.png"><SubTexture name="writingoftoday1 writingoftoday0000" x="0" y="0" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="writingoftoday1 writingoftoday0001" x="2052" y="0" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="writingoftoday1 writingoftoday0002" x="4104" y="0" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="writingoftoday1 writingoftoday0003" x="6156" y="0" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="writingoftoday1 writingoftoday0004" x="8208" y="0" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="writingoftoday1 writingoftoday0005" x="0" y="2052" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="writingoftoday1 writingoftoday0006" x="2052" y="2052" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="writingoftoday1 writingoftoday0007" x="4104" y="2052" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="writingoftoday1 writingoftoday0008" x="6156" y="2052" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="writingoftoday1 writingoftoday0009" x="8208" y="2052" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="writingoftoday1 writingoftoday0010" x="0" y="4104" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="writingoftoday1 writingoftoday0011" x="2052" y="4104" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="writingoftoday1 writingoftoday0012" x="4104" y="4104" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="writingoftoday1 writingoftoday0013" x="6156" y="4104" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="writingoftoday1 writingoftoday0014" x="8208" y="4104" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="writingoftoday1 writingoftoday0015" x="0" y="6156" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="writingoftoday1 writingoftoday0016" x="2052" y="6156" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="writingoftoday1 writingoftoday0017" x="4104" y="6156" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="writingoftoday1 writingoftoday0018" x="6156" y="6156" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="writingoftoday1 writingoftoday0019" x="8208" y="6156" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="writingoftoday1 writingoftoday0020" x="0" y="8208" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="writingoftoday1 writingoftoday0021" x="2052" y="8208" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="writingoftoday1 writingoftoday0022" x="4104" y="8208" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="writingoftoday1 writingoftoday0023" x="6156" y="8208" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="writingoftoday1 writingoftoday0024" x="8208" y="8208" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="writingoftoday1 writingoftoday0025" x="0" y="10260" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="writingoftoday1 writingoftoday0026" x="2052" y="10260" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+</TextureAtlas>
